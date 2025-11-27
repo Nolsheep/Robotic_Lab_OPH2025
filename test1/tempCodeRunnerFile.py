@@ -1,0 +1,1 @@
+class_labels = ["Fighting", "MiniHeart", "ILY", "FU", "Like"]
